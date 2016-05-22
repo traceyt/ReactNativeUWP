@@ -1,0 +1,2 @@
+C:\gitRepo\ReactNativeUWP\node_modules\react-native\ReactWindows\ReactNative\ReactNative.csproj;x64
+C:\gitRepo\ReactNativeUWP\windows\ReactNativeUWP\ReactNativeUWP\ReactNativeUWP.csproj;x64
